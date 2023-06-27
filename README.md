@@ -12,8 +12,6 @@ DA LICENCIATURA DE INFORMÁTICA 2022/2023
 
 Grupo:
 
-Marcos Sousa A041550
-
 Rodrigo Araújo A043595
 
 Pedro Pires A038057
